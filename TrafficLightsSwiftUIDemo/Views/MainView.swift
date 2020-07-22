@@ -1,6 +1,6 @@
 //
 //  MainView.swift
-//  SwiftUIHomework3.1
+//  TrafficLightsSwiftUIDemo
 //
 //  Created by Eduard Laryushkin on 21.07.2020.
 //  Copyright © 2020 edlar.ru. All rights reserved.

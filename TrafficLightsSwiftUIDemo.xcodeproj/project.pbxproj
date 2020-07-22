@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		831A416B24C6F311009A10DB /* SwiftUIHomework3.1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIHomework3.1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		831A416B24C6F311009A10DB /* TrafficLightsSwiftUIDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrafficLightsSwiftUIDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		831A416E24C6F311009A10DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		831A417024C6F311009A10DB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		831A417224C6F311009A10DB /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -42,7 +42,7 @@
 		831A416224C6F311009A10DB = {
 			isa = PBXGroup;
 			children = (
-				831A416D24C6F311009A10DB /* SwiftUIHomework3.1 */,
+				831A416D24C6F311009A10DB /* TrafficLightsSwiftUIDemo */,
 				831A416C24C6F311009A10DB /* Products */,
 			);
 			sourceTree = "<group>";
@@ -50,12 +50,12 @@
 		831A416C24C6F311009A10DB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				831A416B24C6F311009A10DB /* SwiftUIHomework3.1.app */,
+				831A416B24C6F311009A10DB /* TrafficLightsSwiftUIDemo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		831A416D24C6F311009A10DB /* SwiftUIHomework3.1 */ = {
+		831A416D24C6F311009A10DB /* TrafficLightsSwiftUIDemo */ = {
 			isa = PBXGroup;
 			children = (
 				831A418224C6F32C009A10DB /* Views */,
@@ -63,7 +63,7 @@
 				831A418324C6F334009A10DB /* SupportingFiles */,
 				831A417624C6F315009A10DB /* Preview Content */,
 			);
-			path = SwiftUIHomework3.1;
+			path = TrafficLightsSwiftUIDemo;
 			sourceTree = "<group>";
 		};
 		831A417624C6F315009A10DB /* Preview Content */ = {
@@ -105,9 +105,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		831A416A24C6F311009A10DB /* SwiftUIHomework3.1 */ = {
+		831A416A24C6F311009A10DB /* TrafficLightsSwiftUIDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 831A417F24C6F315009A10DB /* Build configuration list for PBXNativeTarget "SwiftUIHomework3.1" */;
+			buildConfigurationList = 831A417F24C6F315009A10DB /* Build configuration list for PBXNativeTarget "TrafficLightsSwiftUIDemo" */;
 			buildPhases = (
 				831A416724C6F311009A10DB /* Sources */,
 				831A416824C6F311009A10DB /* Frameworks */,
@@ -117,9 +117,9 @@
 			);
 			dependencies = (
 			);
-			name = SwiftUIHomework3.1;
+			name = TrafficLightsSwiftUIDemo;
 			productName = SwiftUIHomework3.1;
-			productReference = 831A416B24C6F311009A10DB /* SwiftUIHomework3.1.app */;
+			productReference = 831A416B24C6F311009A10DB /* TrafficLightsSwiftUIDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -137,7 +137,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 831A416624C6F311009A10DB /* Build configuration list for PBXProject "SwiftUIHomework3.1" */;
+			buildConfigurationList = 831A416624C6F311009A10DB /* Build configuration list for PBXProject "TrafficLightsSwiftUIDemo" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -150,7 +150,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				831A416A24C6F311009A10DB /* SwiftUIHomework3.1 */,
+				831A416A24C6F311009A10DB /* TrafficLightsSwiftUIDemo */,
 			);
 		};
 /* End PBXProject section */
@@ -313,16 +313,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIHomework3.1/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"TrafficLightsSwiftUIDemo/Preview Content\"";
 				DEVELOPMENT_TEAM = NQ25V2WSYR;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "$(SRCROOT)/SwiftUIHomework3.1/SupportingFiles/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/TrafficLightsSwiftUIDemo/SupportingFiles/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "ru.edlar.SwiftUIHomework3-1";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = ru.edlar.TrafficLightsSwiftUIDemo;
+				PRODUCT_NAME = TrafficLightsSwiftUIDemo;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -333,16 +333,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIHomework3.1/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"TrafficLightsSwiftUIDemo/Preview Content\"";
 				DEVELOPMENT_TEAM = NQ25V2WSYR;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "$(SRCROOT)/SwiftUIHomework3.1/SupportingFiles/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/TrafficLightsSwiftUIDemo/SupportingFiles/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "ru.edlar.SwiftUIHomework3-1";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = ru.edlar.TrafficLightsSwiftUIDemo;
+				PRODUCT_NAME = TrafficLightsSwiftUIDemo;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -351,7 +351,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		831A416624C6F311009A10DB /* Build configuration list for PBXProject "SwiftUIHomework3.1" */ = {
+		831A416624C6F311009A10DB /* Build configuration list for PBXProject "TrafficLightsSwiftUIDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				831A417D24C6F315009A10DB /* Debug */,
@@ -360,7 +360,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		831A417F24C6F315009A10DB /* Build configuration list for PBXNativeTarget "SwiftUIHomework3.1" */ = {
+		831A417F24C6F315009A10DB /* Build configuration list for PBXNativeTarget "TrafficLightsSwiftUIDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				831A418024C6F315009A10DB /* Debug */,

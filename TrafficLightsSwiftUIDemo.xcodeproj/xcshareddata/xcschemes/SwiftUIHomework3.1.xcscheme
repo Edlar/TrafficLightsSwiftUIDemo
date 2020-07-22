@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "831A416A24C6F311009A10DB"
-               BuildableName = "SwiftUIHomework3.1.app"
-               BlueprintName = "SwiftUIHomework3.1"
-               ReferencedContainer = "container:SwiftUIHomework3.1.xcodeproj">
+               BuildableName = "TrafficLightsSwiftUIDemo.app"
+               BlueprintName = "TrafficLightsSwiftUIDemo"
+               ReferencedContainer = "container:TrafficLightsSwiftUIDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "831A416A24C6F311009A10DB"
-            BuildableName = "SwiftUIHomework3.1.app"
-            BlueprintName = "SwiftUIHomework3.1"
-            ReferencedContainer = "container:SwiftUIHomework3.1.xcodeproj">
+            BuildableName = "TrafficLightsSwiftUIDemo.app"
+            BlueprintName = "TrafficLightsSwiftUIDemo"
+            ReferencedContainer = "container:TrafficLightsSwiftUIDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "831A416A24C6F311009A10DB"
-            BuildableName = "SwiftUIHomework3.1.app"
-            BlueprintName = "SwiftUIHomework3.1"
-            ReferencedContainer = "container:SwiftUIHomework3.1.xcodeproj">
+            BuildableName = "TrafficLightsSwiftUIDemo.app"
+            BlueprintName = "TrafficLightsSwiftUIDemo"
+            ReferencedContainer = "container:TrafficLightsSwiftUIDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
